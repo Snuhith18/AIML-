@@ -1,3 +1,4 @@
+Lab 1 https://github.com/Snuhith18/AIML-/blob/main/Lab01_AIML.ipynb
 lab 2 https://github.com/Snuhith18/AIML-/blob/main/Lab_2.ipynb
 lab-lab 5 # AIML- https://github.com/Snuhith18/AIML-/blob/main/lab_5_AIML.ipynb
 lab-06-https://github.com/Snuhith18/AIML-/blob/main/lab_6.ipynb
